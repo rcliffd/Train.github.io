@@ -10,13 +10,13 @@ th {
 }
 
 body {
-  background-color: rgb(13, 70, 241);
+  background-color: rgb(116, 150, 252);
+  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiv3PS_3q3iAhWJ4J4KHW5WA6QQjRx6BAgBEAU&url=https%3A%2F%2Fwww.wired.com%2F2014%2F08%2Fthe-beautiful-graveyard-where-bolivias-trains-went-to-die%2F&psig=AOvVaw0VC6g25KsuDf48g9vBnQE3&ust=1558566124089788");
 }
 
 .clock {
   float: right;
   font-size: 50px;
-  /* color: rgba(76, 159, 187, 0.75); */
   color: rgba(255, 255, 255, 0.6);
   font-family: "Montserrat", sans-serif;
   margin-left: 30px;
@@ -99,7 +99,7 @@ tr {
 }
 
 tr:hover {
-  background-color: gold !important;
+  /* background-color: gold !important;
 }
 
 .tr-head:hover {
